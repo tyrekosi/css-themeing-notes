@@ -186,3 +186,5 @@
 }
 ```
 </details>
+
+## Visuals
