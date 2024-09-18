@@ -1,4 +1,7 @@
-# Wikipedia palette (organized)
+# Wikipedia palette
+<details>
+    <summary>Organized (by me) (badly)</summary>
+    
 ```css
 :root,
 .skin-invert,
@@ -181,3 +184,5 @@
     --border-color-input--hover: var(--border-color-interactive);
     --border-color-input-binary: var(--border-color-interactive);
 }
+```
+</details>
