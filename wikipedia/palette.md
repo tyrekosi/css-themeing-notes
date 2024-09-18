@@ -188,8 +188,20 @@
 </details>
 
 ## Visuals
+To show what is influenced by each color, I change that color to #4AF626 (neon green) temporarily.
 _All on light mode, since even though I am making a dark theme it's just easier to edit._
+
 <details><summary>--pure-white</summary>
     
 ![white](https://i.imgur.com/8KSFAfR.png)
+</details>
+
+<details><summary>--pure-black</summary>
+    
+![black](https://i.imgur.com/oXRzkaS.png)
+</details>
+
+<details><summary>--off-white-cool</summary>
+    
+![cool off white](https://i.imgur.com/qbt00tX.png)
 </details>
