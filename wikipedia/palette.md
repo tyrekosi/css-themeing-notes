@@ -1,7 +1,7 @@
 # Wikipedia palletes
 <details>
 	<summary>Organized (by me)</summary>
-```css
+	```css
 
 	root,.skin-invert,.notheme {
      
@@ -183,5 +183,5 @@
 	    --border-color-input--hover: var(--border-color-interactive);
 	    --border-color-input-binary: var(--border-color-interactive);
 	}
-```
+	```
 </details>
