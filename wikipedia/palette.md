@@ -12,7 +12,7 @@
     --pure-black: #000;
 
     --off-white-cool: #eaecf0;
-    --off-white-warm: ##fee7e6;
+    --off-white-warm: #fee7e6;
 
     --grey: #72777d;
     --grey-light-cool: #c8ccd1;
@@ -187,7 +187,7 @@
 ```
 </details>
 
-## Visuals
+## Main Visuals
 To show what is influenced by each color, I change that color to #4AF626 (neon green) temporarily.
 _All on light mode, since even though I am making a dark theme it's just easier to edit._
 
@@ -202,6 +202,7 @@ _All on light mode, since even though I am making a dark theme it's just easier 
 </details>
 
 <details><summary>--off-white-cool</summary>
-    
+Pretty important for the sake of general themeing; used for code blocks and description boxes as well as the last layer background, and also for borders.
+
 ![cool off white](https://i.imgur.com/qbt00tX.png)
 </details>
