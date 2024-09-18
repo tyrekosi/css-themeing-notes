@@ -1,4 +1,5 @@
 # Wikipedia palette (organized)
+```css
 :root,
 .skin-invert,
 .notheme {
