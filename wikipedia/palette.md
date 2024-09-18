@@ -188,3 +188,8 @@
 </details>
 
 ## Visuals
+_All on light mode, since even though I am making a dark theme it's just easier to edit._
+<details><summary>--pure-white</summary>
+    
+![white](https://i.imgur.com/8KSFAfR.png)
+</details>
